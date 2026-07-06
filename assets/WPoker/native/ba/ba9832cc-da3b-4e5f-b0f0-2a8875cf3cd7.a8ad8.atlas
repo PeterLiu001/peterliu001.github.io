@@ -1,0 +1,62 @@
+
+chip_storm.png
+size: 1525,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chip_blue
+  rotate: false
+  xy: 2, 2
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+chip_red_0
+  rotate: false
+  xy: 184, 2
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+chip_red_1
+  rotate: false
+  xy: 548, 2
+  size: 141, 180
+  orig: 200, 200
+  offset: 29, 10
+  index: -1
+chip_red_2
+  rotate: false
+  xy: 691, 2
+  size: 71, 180
+  orig: 200, 200
+  offset: 64, 10
+  index: -1
+chip_red_3
+  rotate: false
+  xy: 764, 2
+  size: 39, 180
+  orig: 200, 200
+  offset: 80, 10
+  index: -1
+chip_red_4
+  rotate: false
+  xy: 805, 2
+  size: 25, 180
+  orig: 200, 200
+  offset: 87, 10
+  index: -1
+chip_yellow
+  rotate: false
+  xy: 366, 2
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+light_0
+  rotate: true
+  xy: 832, 21
+  size: 161, 691
+  orig: 209, 692
+  offset: 26, 1
+  index: -1

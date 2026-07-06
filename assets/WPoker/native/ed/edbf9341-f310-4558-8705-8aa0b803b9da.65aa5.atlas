@@ -1,0 +1,307 @@
+
+cigar_dc.png
+size: 991,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_huoxing
+  rotate: true
+  xy: 697, 134
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+7_shou
+  rotate: true
+  xy: 541, 122
+  size: 129, 115
+  orig: 136, 115
+  offset: 0, 0
+  index: -1
+7_shouzhi1
+  rotate: true
+  xy: 770, 61
+  size: 77, 57
+  orig: 77, 58
+  offset: 0, 1
+  index: -1
+7_xiangyan
+  rotate: true
+  xy: 813, 2
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+7_yanhui
+  rotate: false
+  xy: 786, 142
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+bombshell/yan/yanwu10001
+  rotate: true
+  xy: 669, 17
+  size: 11, 67
+  orig: 18, 86
+  offset: 3, 3
+  index: -1
+bombshell/yan/yanwu10002
+  rotate: true
+  xy: 723, 154
+  size: 10, 70
+  orig: 18, 86
+  offset: 4, 5
+  index: -1
+bombshell/yan/yanwu10003
+  rotate: true
+  xy: 737, 5
+  size: 10, 74
+  orig: 18, 86
+  offset: 5, 7
+  index: -1
+bombshell/yan/yanwu10004
+  rotate: true
+  xy: 570, 2
+  size: 9, 82
+  orig: 18, 86
+  offset: 6, 4
+  index: -1
+bombshell/yan/yanwu10005
+  rotate: true
+  xy: 654, 3
+  size: 11, 81
+  orig: 18, 86
+  offset: 3, 3
+  index: -1
+bombshell/yan/yanwu10006
+  rotate: true
+  xy: 713, 140
+  size: 10, 71
+  orig: 18, 86
+  offset: 3, 4
+  index: -1
+bombshell/yan/yanwu10007
+  rotate: true
+  xy: 795, 161
+  size: 9, 71
+  orig: 18, 86
+  offset: 4, 6
+  index: -1
+bombshell/yan/yanwu10008
+  rotate: false
+  xy: 824, 182
+  size: 8, 69
+  orig: 18, 86
+  offset: 4, 5
+  index: -1
+cigar/dahuojishen
+  rotate: false
+  xy: 443, 115
+  size: 96, 136
+  orig: 96, 136
+  offset: 0, 0
+  index: -1
+cigar/huojigai1
+  rotate: true
+  xy: 658, 152
+  size: 99, 63
+  orig: 99, 63
+  offset: 0, 0
+  index: -1
+cigar/huojigai2
+  rotate: true
+  xy: 443, 3
+  size: 110, 92
+  orig: 110, 92
+  offset: 0, 0
+  index: -1
+cigar/huougang/huougang0001
+  rotate: false
+  xy: 737, 60
+  size: 31, 78
+  orig: 38, 113
+  offset: 3, 3
+  index: -1
+cigar/huougang/huougang0002
+  rotate: false
+  xy: 758, 167
+  size: 31, 84
+  orig: 38, 113
+  offset: 3, 2
+  index: -1
+cigar/huougang/huougang0003
+  rotate: false
+  xy: 669, 30
+  size: 33, 96
+  orig: 38, 113
+  offset: 2, 1
+  index: -1
+cigar/huougang/huougang0004
+  rotate: false
+  xy: 570, 13
+  size: 31, 107
+  orig: 38, 113
+  offset: 3, 2
+  index: -1
+cigar/huougang/huougang0005
+  rotate: false
+  xy: 537, 4
+  size: 31, 109
+  orig: 38, 113
+  offset: 3, 3
+  index: -1
+cigar/huougang/huougang0006
+  rotate: false
+  xy: 791, 172
+  size: 31, 79
+  orig: 38, 113
+  offset: 3, 2
+  index: -1
+cigar/huougang/huougang0007
+  rotate: false
+  xy: 723, 166
+  size: 33, 85
+  orig: 38, 113
+  offset: 2, 1
+  index: -1
+cigar/huougang/huougang0008
+  rotate: false
+  xy: 704, 38
+  size: 31, 94
+  orig: 38, 113
+  offset: 3, 2
+  index: -1
+cigar/huougang/huougang0009
+  rotate: false
+  xy: 636, 16
+  size: 31, 104
+  orig: 38, 113
+  offset: 3, 3
+  index: -1
+cigar/huougang/huougang0010
+  rotate: false
+  xy: 603, 13
+  size: 31, 107
+  orig: 38, 113
+  offset: 3, 2
+  index: -1
+cigar/tie
+  rotate: false
+  xy: 658, 128
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+cigar/yanhuan/yanhuan00000
+  rotate: false
+  xy: 829, 107
+  size: 37, 52
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00002
+  rotate: true
+  xy: 868, 107
+  size: 36, 52
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00004
+  rotate: false
+  xy: 913, 200
+  size: 37, 51
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00006
+  rotate: false
+  xy: 898, 14
+  size: 37, 51
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00008
+  rotate: false
+  xy: 935, 92
+  size: 37, 51
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00010
+  rotate: false
+  xy: 946, 147
+  size: 37, 51
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00012
+  rotate: false
+  xy: 952, 200
+  size: 37, 51
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00014
+  rotate: false
+  xy: 859, 13
+  size: 37, 52
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00016
+  rotate: false
+  xy: 868, 145
+  size: 37, 52
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00018
+  rotate: false
+  xy: 874, 199
+  size: 37, 52
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00020
+  rotate: true
+  xy: 738, 20
+  size: 38, 52
+  orig: 56, 56
+  offset: 8, 2
+  index: -1
+cigar/yanhuan/yanhuan00022
+  rotate: false
+  xy: 907, 145
+  size: 37, 52
+  orig: 56, 56
+  offset: 9, 2
+  index: -1
+cigar/yanhuan/yanhuan00024
+  rotate: false
+  xy: 834, 199
+  size: 38, 52
+  orig: 56, 56
+  offset: 8, 2
+  index: -1
+cigar/yanhuan/yanhuan00026
+  rotate: true
+  xy: 829, 67
+  size: 38, 51
+  orig: 56, 56
+  offset: 8, 3
+  index: -1
+cigar/yanhuan/yanhuan00028
+  rotate: true
+  xy: 882, 67
+  size: 38, 51
+  orig: 56, 56
+  offset: 8, 3
+  index: -1
+cigar/yanwu
+  rotate: false
+  xy: 2, 5
+  size: 439, 246
+  orig: 473, 257
+  offset: 28, 8
+  index: -1

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>111Redirecting...</title>
+    <script>
+        function redirect() {
+            // 获取当前 URL 的查询参数
+            const urlParams = new URLSearchParams(window.location.search);
+            
+            // 获取目标 URL（假设参数名为 to）
+            const targetUrl = urlParams.get('to');
+            
+            if (!targetUrl) {
+                console.error('No target URL provided');
+                return;
+            }
+
+            // 删除 to 参数，保留其他参数
+            urlParams.delete('to');
+            
+            // 构建最终的重定向 URL
+            let finalUrl = decodeURIComponent(targetUrl);
+            
+            // 如果目标 URL 已经有查询参数，使用 & 连接，否则使用 ?
+            const connector = finalUrl.includes('?') ? '&' : '?';
+            
+            // 如果有其他参数，添加到目标 URL
+            const remainingParams = urlParams.toString();
+            if (remainingParams) {
+                finalUrl += connector + remainingParams;
+            }
+
+            // 执行重定向
+            window.location.href = atob(finalUrl);
+        }
+
+        // 页面加载完成后立即执行重定向
+        window.onload = redirect;
+    </script>
+  <script async type="module" crossorigin src="/assets/switch-BP-vProc.js"></script>
+</head>
+<body>
+    <div style="text-align: center; padding: 20px;">
+        222Redirecting...
+    </div>
+</body>
+</html>

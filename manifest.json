@@ -1,0 +1,28 @@
+{
+    "name": "Poker Master",
+    "short_name": "Poker Master",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#041c64",
+    "description": "A poker lovers app.",
+    "icons": [
+      {
+        "src": "/logo1000.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "/logo1000.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/logo1000.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  

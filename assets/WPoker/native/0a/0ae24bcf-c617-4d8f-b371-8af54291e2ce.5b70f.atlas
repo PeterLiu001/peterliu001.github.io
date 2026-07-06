@@ -1,0 +1,62 @@
+
+cowboy_vs.png
+size: 969,1066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S
+  rotate: true
+  xy: 789, 120
+  size: 100, 136
+  orig: 102, 137
+  offset: 1, 1
+  index: -1
+V
+  rotate: true
+  xy: 789, 222
+  size: 119, 137
+  orig: 121, 138
+  offset: 1, 1
+  index: -1
+blue
+  rotate: true
+  xy: 228, 24
+  size: 596, 218
+  orig: 599, 222
+  offset: 0, 2
+  index: -1
+cowboy
+  rotate: true
+  xy: 2, 622
+  size: 442, 465
+  orig: 442, 466
+  offset: 0, 1
+  index: -1
+lady
+  rotate: true
+  xy: 469, 625
+  size: 439, 466
+  orig: 439, 467
+  offset: 0, 1
+  index: -1
+light
+  rotate: false
+  xy: 448, 2
+  size: 339, 339
+  orig: 367, 367
+  offset: 14, 14
+  index: -1
+light_2
+  rotate: false
+  xy: 469, 343
+  size: 498, 280
+  orig: 579, 319
+  offset: 44, 20
+  index: -1
+red
+  rotate: true
+  xy: 2, 27
+  size: 593, 224
+  orig: 596, 228
+  offset: 3, 2
+  index: -1

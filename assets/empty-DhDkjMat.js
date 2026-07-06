@@ -1,0 +1,2 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="df59e624-1a49-4e3f-9954-75cc7c8a9c82",e._sentryDebugIdIdentifier="sentry-dbid-df59e624-1a49-4e3f-9954-75cc7c8a9c82")}catch{}})();const d="/assets/empty-THaC9ESI.png";export{d as T};
+//# sourceMappingURL=empty-DhDkjMat.js.map

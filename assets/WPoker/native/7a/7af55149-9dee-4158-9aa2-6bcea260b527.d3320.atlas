@@ -1,0 +1,244 @@
+
+cheers_dc.png
+size: 1940,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_pinshen
+  rotate: true
+  xy: 802, 7
+  size: 59, 146
+  orig: 59, 150
+  offset: 0, 0
+  index: -1
+10_shui
+  rotate: true
+  xy: 99, 9
+  size: 31, 26
+  orig: 41, 58
+  offset: 4, 5
+  index: -1
+10_shuidi
+  rotate: true
+  xy: 141, 2
+  size: 44, 88
+  orig: 44, 88
+  offset: 0, 0
+  index: -1
+10_shuimian
+  rotate: true
+  xy: 68, 9
+  size: 31, 29
+  orig: 32, 37
+  offset: 1, 6
+  index: -1
+cheers/baokai1/baokai0001
+  rotate: false
+  xy: 523, 4
+  size: 59, 50
+  orig: 99, 91
+  offset: 24, 18
+  index: -1
+cheers/baokai1/baokai0002
+  rotate: false
+  xy: 718, 6
+  size: 82, 60
+  orig: 99, 91
+  offset: 10, 13
+  index: -1
+cheers/baokai1/baokai0003
+  rotate: false
+  xy: 1844, 167
+  size: 73, 66
+  orig: 99, 91
+  offset: 15, 12
+  index: -1
+cheers/baokai1/baokai0004
+  rotate: true
+  xy: 950, 5
+  size: 78, 72
+  orig: 99, 91
+  offset: 14, 11
+  index: -1
+cheers/baokai1/baokai0005
+  rotate: false
+  xy: 1024, 7
+  size: 83, 76
+  orig: 99, 91
+  offset: 12, 9
+  index: -1
+cheers/pengshui2/pengshui20001
+  rotate: true
+  xy: 1375, 2
+  size: 136, 85
+  orig: 439, 336
+  offset: 90, 171
+  index: -1
+cheers/pengshui2/pengshui20002
+  rotate: true
+  xy: 1715, 6
+  size: 188, 127
+  orig: 439, 336
+  offset: 77, 166
+  index: -1
+cheers/pengshui2/pengshui20003
+  rotate: true
+  xy: 1788, 235
+  size: 238, 150
+  orig: 439, 336
+  offset: 61, 165
+  index: -1
+cheers/pengshui2/pengshui20004
+  rotate: false
+  xy: 1462, 3
+  size: 251, 161
+  orig: 439, 336
+  offset: 56, 165
+  index: -1
+cheers/pengshui2/pengshui20005
+  rotate: true
+  xy: 1623, 196
+  size: 277, 163
+  orig: 439, 336
+  offset: 48, 160
+  index: -1
+cheers/pengshui2/pengshui20006
+  rotate: true
+  xy: 1458, 166
+  size: 307, 163
+  orig: 439, 336
+  offset: 37, 158
+  index: -1
+cheers/pengshui2/pengshui20007
+  rotate: true
+  xy: 1288, 140
+  size: 333, 168
+  orig: 439, 336
+  offset: 27, 153
+  index: -1
+cheers/pengshui2/pengshui20008
+  rotate: true
+  xy: 1105, 108
+  size: 365, 181
+  orig: 439, 336
+  offset: 16, 137
+  index: -1
+cheers/pengshui2/pengshui20009
+  rotate: true
+  xy: 915, 85
+  size: 388, 188
+  orig: 439, 336
+  offset: 9, 121
+  index: -1
+cheers/pengshui2/pengshui20010
+  rotate: true
+  xy: 718, 68
+  size: 405, 195
+  orig: 439, 336
+  offset: 4, 103
+  index: -1
+cheers/pengshui2/pengshui20011
+  rotate: true
+  xy: 523, 56
+  size: 417, 193
+  orig: 439, 336
+  offset: 1, 85
+  index: -1
+cheers/pengshui2/pengshui20012
+  rotate: true
+  xy: 324, 51
+  size: 422, 197
+  orig: 439, 336
+  offset: 0, 59
+  index: -1
+cheers/pengshui2/pengshui20013
+  rotate: true
+  xy: 141, 48
+  size: 425, 181
+  orig: 439, 336
+  offset: 1, 26
+  index: -1
+cheers/pengshui2/pengshui20014
+  rotate: true
+  xy: 2, 42
+  size: 431, 137
+  orig: 439, 336
+  offset: 1, 29
+  index: -1
+cheers/pengshui2/pengshui20015
+  rotate: false
+  xy: 1109, 3
+  size: 264, 103
+  orig: 439, 336
+  offset: 94, 6
+  index: -1
+cheers/pengshui2/pengshui20016
+  rotate: false
+  xy: 1109, 3
+  size: 264, 103
+  orig: 439, 336
+  offset: 94, 6
+  index: -1
+cheers/qipao1
+  rotate: false
+  xy: 127, 32
+  size: 7, 8
+  orig: 8, 9
+  offset: 1, 1
+  index: -1
+cheers/qipao2
+  rotate: false
+  xy: 68, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+cheers/qipao3
+  rotate: false
+  xy: 127, 14
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+cheers/qipao4
+  rotate: false
+  xy: 82, 4
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+cheers/qipaopao1
+  rotate: true
+  xy: 127, 22
+  size: 8, 7
+  orig: 8, 8
+  offset: 0, 1
+  index: -1
+cheers/qipaopao2
+  rotate: false
+  xy: 75, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+cheers/qipaopao3
+  rotate: false
+  xy: 127, 6
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+cheers/qipaopao4
+  rotate: false
+  xy: 87, 4
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+p10_pingkou
+  rotate: true
+  xy: 2, 5
+  size: 35, 64
+  orig: 43, 66
+  offset: 0, 2
+  index: -1

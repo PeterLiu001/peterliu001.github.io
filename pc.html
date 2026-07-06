@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/logo1000.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/logo1000.png" />
+    <link rel="apple-touch-icon" sizes="512x512" href="/logo1000.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#041c64">
+
+    <title>Poker Master</title>
+
+    <style>
+        /* 全局隐藏滚动条 */
+        ::-webkit-scrollbar {
+            display: none;
+            /* 隐藏滚动条 */
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #3c3c3c;
+        }
+
+        #iframe {
+            width: 65vh;
+            height: 100%;
+            overflow: hidden;
+            border: 0.01rem solid #3c3c3c;
+            border-radius: 0.08rem;
+            box-shadow: 0 0.04rem 0.08rem rgba(0, 0, 0, 0.2);
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            try {
+                const url = 'https://play.pokermaster.co' + window.location.search;
+                const iframe = document.createElement('iframe');
+                iframe.id = 'iframe';
+                iframe.src = url;
+                iframe.frameBorder = '0';
+
+                document.body.appendChild(iframe);
+            } catch (error) {
+                console.error('重定向失败:', error);
+            }
+        });
+    </script>
+  <script async type="module" crossorigin src="/assets/pc-BP-vProc.js"></script>
+</head>
+
+<body>
+    <div id="root"></div>
+    <!-- placeholder  -->
+</body>
+
+</html>

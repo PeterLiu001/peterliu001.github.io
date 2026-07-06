@@ -1,0 +1,41 @@
+
+cowboy_win.png
+size: 379,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangguan
+  rotate: true
+  xy: 288, 91
+  size: 124, 89
+  orig: 124, 90
+  offset: 0, 1
+  index: -1
+laba
+  rotate: false
+  xy: 288, 48
+  size: 50, 41
+  orig: 52, 41
+  offset: 1, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 2, 2
+  size: 214, 213
+  orig: 224, 222
+  offset: 5, 4
+  index: -1
+star
+  rotate: false
+  xy: 218, 17
+  size: 17, 16
+  orig: 18, 18
+  offset: 0, 2
+  index: -1
+win
+  rotate: true
+  xy: 218, 35
+  size: 180, 68
+  orig: 183, 69
+  offset: 2, 1
+  index: -1

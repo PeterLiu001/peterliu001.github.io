@@ -1,94 +1,102 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>MiniGame小游戏</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-	</head>
-	<body>
-		<h1> 游戏列表</h1>
-		<ul id='menu'>
-			<li onclick="loadGame('./game/blade-master/index.html')">blade master</li>
-			<li onclick="loadGame('./game/cool-score/index.html')">cool-score</li>
-			<li onclick="loadGame('./game/crossbow-sniper/index.html')">crossbow-sniper</li>
-			<li onclick="loadGame('./game/defense-tower/index.html')">defense-tower</li>
-			<li onclick="loadGame('./game/farm-heroes-saga/index.html')">farm-heroes-saga</li>
-			<li onclick="loadGame('./game/fruit-pop-bubbles-game/index.html')">fruit-pop-bubbles-game</li>
-			<li onclick="loadGame('./game/fury-road-neon/index.html')">fury-road-neon</li>
-			<li onclick="loadGame('./game/gt-offroad-racing/index.html')">gt-offroad-racing</li>
-			<li onclick="loadGame('./game/hair-dye/index.html')">hair-dye</li>
-			<li onclick="loadGame('./game/hoop-star/index.html')">hoop-star</li>
-			<li onclick="loadGame('./game/lumber-run/index.html')">lumber-run</li>
-			<li onclick="loadGame('./game/ninja-vital-treasure/index.html')">ninja-vital-treasure</li>
-			<li onclick="loadGame('./game/woody-legend/index.html')">woody-legend</li>
-			<li onclick="loadGame('./game/wormeat-io-online-game/index.html')">wormeat-io-online-game</li>
-			<li onclick="loadGame('./game/zombie-assassin/index.html')">zombie-assassin</li>
-		</ul>
-		<div id="overlay">
-			<iframe id="gameFrame" src=""></iframe>
-			<button onclick="closeGame()">返回</button>
-		</div>
-	</body>
-	<script>
-		function loadGame(url) {
-			const frame = document.getElementById('gameFrame');
-			const overlay = document.getElementById('overlay');
-			frame.src = url;
-			frame.style.display = 'block'; // 显示 iframe
-			overlay.style.display = 'block'; // 显示覆盖层
-		}
-		 function closeGame() {
-			const frame = document.getElementById('gameFrame');
-			const overlay = document.getElementById('overlay');
-			frame.src = ''; // 清空 iframe 内容
-			frame.style.display = 'none'; // 隐藏 iframe
-			overlay.style.display = 'none'; // 隐藏覆盖层
-		}
+<!doctype html>
+<html lang="en">
 
-		// 监听物理键返回事件
-		window.onpopstate = function(event) {
-			closeGame();
-		};
-	</script>
-	<style>
-		body {
-		    background: #ff;
-		    margin: 0px;
-		    border: 0px;
-			width: 100%;
-			height: 100%;
-			padding: 20px;
-			text-align: center;
-		}
-		#menu {
-			list-style-type: none;
-			padding: 0;
-		}
-		#menu li {
-			margin: 20px 0;
-			cursor: pointer;
-			color: blue;
-			text-decoration: underline;
-			font-size: 24px;
-		}
-		#gameFrame {
-			display: none;
-			width: 100%;
-			height: 100%;
-			border: none;
-			margin-top: 20px;
-		}
-		#overlay {
-			display: none;
-			position: fixed;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-			background-color: rgba(255, 255, 255, 0.9);
-			z-index: 1000;
-			text-align: center;
-			padding-top: 20px;
-		}
-	</style>
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/logo1000.png" />
+  <link rel="apple-touch-icon" sizes="192x192" href="/logo1000.png" />
+  <link rel="apple-touch-icon" sizes="512x512" href="/logo1000.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#041c64">
+  <meta name="version" content="1.1.202607061754" />
+
+  <title>Poker Master</title>
+  <script type="module" crossorigin src="/assets/index-CyWh24mH.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/react-vendor-B-L1TqNG.js">
+  <link rel="modulepreload" crossorigin href="/assets/crypto-vendor-BKx5uaI1.js">
+  <link rel="modulepreload" crossorigin href="/assets/index-oZ6LjVcR.js">
+  <link rel="modulepreload" crossorigin href="/assets/react-dom-CpDm7AEs.js">
+  <link rel="modulepreload" crossorigin href="/assets/react-router-dom-C-QBo9cq.js">
+  <link rel="modulepreload" crossorigin href="/assets/react-vant-icons-CQ0MNA1Z.js">
+  <link rel="modulepreload" crossorigin href="/assets/react-vant-vendor-CRRiVf61.js">
+  <link rel="modulepreload" crossorigin href="/assets/other-vendor-BbzZILQo.js">
+  <link rel="modulepreload" crossorigin href="/assets/redux-toolkit-vendor-Bio0YFct.js">
+  <link rel="modulepreload" crossorigin href="/assets/axios-CR0RoyP0.js">
+  <link rel="modulepreload" crossorigin href="/assets/lottie-web-CO3dkYM0.js">
+  <link rel="modulepreload" crossorigin href="/assets/lottie-vendor-DbiYowic.js">
+  <link rel="modulepreload" crossorigin href="/assets/i18n-vendor-BHROooX1.js">
+  <link rel="modulepreload" crossorigin href="/assets/types-BPEl8wo7.js">
+  <link rel="modulepreload" crossorigin href="/assets/tg-8NV0JLxF.js">
+  <link rel="modulepreload" crossorigin href="/assets/lodash-WAoKiWwl.js">
+  <link rel="modulepreload" crossorigin href="/assets/twa-vendor-P0yESWbE.js">
+  <link rel="modulepreload" crossorigin href="/assets/fingerprint-vendor-CeybpST7.js">
+  <link rel="modulepreload" crossorigin href="/assets/sentry-core-BkkcUy2C.js">
+  <link rel="modulepreload" crossorigin href="/assets/sentry-react-BVdIPApC.js">
+  <link rel="modulepreload" crossorigin href="/assets/mixpanel-vendor-DjLcEgZF.js">
+  <link rel="modulepreload" crossorigin href="/assets/translate-copywrite-vendor-DrN5mn8v.js">
+  <link rel="modulepreload" crossorigin href="/assets/index-BGknxuQs.js">
+  <link rel="modulepreload" crossorigin href="/assets/common-svg-sprite-D5K82FAa.js">
+  <link rel="modulepreload" crossorigin href="/assets/FriendHttpBizCode-CAjw-hn2.js">
+  <link rel="modulepreload" crossorigin href="/assets/useRouterManager-MDN7bhEt.js">
+  <link rel="modulepreload" crossorigin href="/assets/useSetState-C7WQRd5k.js">
+  <link rel="modulepreload" crossorigin href="/assets/useScroll-Cv2OAFEq.js">
+  <link rel="modulepreload" crossorigin href="/assets/data-fns-223asA3l.js">
+  <link rel="modulepreload" crossorigin href="/assets/qrcode-DmR-TOhc.js">
+  <link rel="modulepreload" crossorigin href="/assets/type-D00txdCv.js">
+  <link rel="modulepreload" crossorigin href="/assets/FeatureService-D4t6rF3d.js">
+  <link rel="modulepreload" crossorigin href="/assets/getQrcode-Crnbfy7t.js">
+  <link rel="modulepreload" crossorigin href="/assets/prepareShare-CvaJ9Bgy.js">
+  <link rel="modulepreload" crossorigin href="/assets/mp3_converter_vendor-BTSqtlcB.js">
+  <link rel="modulepreload" crossorigin href="/assets/mp3_record-DzcG3eRT.js">
+  <link rel="modulepreload" crossorigin href="/assets/empty-DhDkjMat.js">
+  <link rel="modulepreload" crossorigin href="/assets/index-rEpH4sPb.js">
+  <link rel="modulepreload" crossorigin href="/assets/Notice-CueJvZ-O.js">
+  <link rel="modulepreload" crossorigin href="/assets/index-CgQR1hl0.js">
+  <link rel="modulepreload" crossorigin href="/assets/NotchHeight-B9qxDzkw.js">
+  <link rel="modulepreload" crossorigin href="/assets/useImperativePopup-HcFQsvoN.js">
+  <link rel="modulepreload" crossorigin href="/assets/showCreateResult-DRiXM_4E.js">
+  <link rel="modulepreload" crossorigin href="/assets/useThrottleFn-CAMvBwKR.js">
+  <link rel="modulepreload" crossorigin href="/assets/index-DAgYEAJ-.js">
+  <link rel="modulepreload" crossorigin href="/assets/useRoomIframe-DwH6MnZE.js">
+  <link rel="modulepreload" crossorigin href="/assets/review-svg-sprite-DJny6a94.js">
+  <link rel="modulepreload" crossorigin href="/assets/useLogin-B4PY6Uou.js">
+  <link rel="modulepreload" crossorigin href="/assets/useMarquee-DAc6TlX9.js">
+  <link rel="modulepreload" crossorigin href="/assets/useEruda-BpjEntmB.js">
+  <link rel="modulepreload" crossorigin href="/assets/MarqueeContext-CWIau150.js">
+  <link rel="stylesheet" crossorigin href="/assets/react-vant-vendor-DDb0_RQB.css">
+  <link rel="stylesheet" crossorigin href="/assets/index-C7U6j8HK.css">
+  <link rel="stylesheet" crossorigin href="/assets/index-W6cOcskf.css">
+  <link rel="stylesheet" crossorigin href="/assets/index-Ciann2Rl.css">
+  <link rel="stylesheet" crossorigin href="/assets/showCreateResult-Cn_5nUca.css">
+  <link rel="stylesheet" crossorigin href="/assets/useRoomIframe-DmlZDHl2.css">
+  <link rel="stylesheet" crossorigin href="/assets/MarqueeContext-Bu2Pm4-I.css">
+  <link rel="stylesheet" crossorigin href="/assets/index-Rj1Oormu.css">
+</head>
+
+<body>
+  <div id="root"></div>
+
+  <script>
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) { return; }
+      js = d.createElement(s); js.id = id;
+      js.src = "https://connect.facebook.net/en_US/sdk.js";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+    window.fbAsyncInit = function () {
+      FB.init({
+        appId: '789084913084064',
+        xfbml: true,
+        version: 'v21.0'
+      });
+      FB.AppEvents.logPageView();
+    };
+  </script>
+
+</body>
+
 </html>

@@ -1,0 +1,41 @@
+
+First Recharge.png
+size: 93,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cash
+  rotate: false
+  xy: 75, 12
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 2, 18
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+dark
+  rotate: true
+  xy: 75, 40
+  size: 36, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 61, 6
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+yinyin
+  rotate: false
+  xy: 2, 2
+  size: 57, 14
+  orig: 59, 16
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,41 @@
+
+kiss_dc.png
+size: 427,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chunyin
+  rotate: false
+  xy: 2, 12
+  size: 190, 132
+  orig: 190, 132
+  offset: 0, 0
+  index: -1
+dise
+  rotate: true
+  xy: 380, 80
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+shangzuichun
+  rotate: false
+  xy: 194, 78
+  size: 184, 66
+  orig: 185, 66
+  offset: 1, 0
+  index: -1
+xiazuichun
+  rotate: false
+  xy: 194, 2
+  size: 178, 74
+  orig: 183, 90
+  offset: 3, 1
+  index: -1
+xin
+  rotate: true
+  xy: 374, 22
+  size: 54, 47
+  orig: 61, 49
+  offset: 3, 2
+  index: -1

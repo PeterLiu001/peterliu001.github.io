@@ -1,0 +1,349 @@
+
+boxing_dc.png
+size: 1270,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boxing/5_bengdai
+  rotate: false
+  xy: 1044, 773
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+boxing/5_quantou1
+  rotate: true
+  xy: 586, 355
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+boxing/5_quantou2
+  rotate: false
+  xy: 1188, 843
+  size: 80, 112
+  orig: 80, 112
+  offset: 0, 0
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0001
+  rotate: false
+  xy: 1188, 602
+  size: 75, 66
+  orig: 139, 151
+  offset: 40, 19
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0002
+  rotate: false
+  xy: 1188, 602
+  size: 75, 66
+  orig: 139, 151
+  offset: 40, 19
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0003
+  rotate: false
+  xy: 1162, 732
+  size: 93, 109
+  orig: 139, 151
+  offset: 31, 10
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0004
+  rotate: false
+  xy: 1162, 732
+  size: 93, 109
+  orig: 139, 151
+  offset: 31, 10
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0005
+  rotate: false
+  xy: 700, 366
+  size: 104, 124
+  orig: 139, 151
+  offset: 20, 6
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0006
+  rotate: false
+  xy: 806, 366
+  size: 104, 124
+  orig: 139, 151
+  offset: 20, 6
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0007
+  rotate: true
+  xy: 895, 4
+  size: 113, 140
+  orig: 139, 151
+  offset: 11, 6
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0008
+  rotate: true
+  xy: 1040, 613
+  size: 83, 85
+  orig: 139, 151
+  offset: 32, 61
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0009
+  rotate: false
+  xy: 801, 2
+  size: 92, 85
+  orig: 139, 151
+  offset: 23, 61
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0010
+  rotate: false
+  xy: 1122, 531
+  size: 64, 80
+  orig: 139, 151
+  offset: 60, 41
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0011
+  rotate: false
+  xy: 1122, 531
+  size: 64, 80
+  orig: 139, 151
+  offset: 60, 41
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0012
+  rotate: true
+  xy: 1040, 698
+  size: 73, 90
+  orig: 139, 151
+  offset: 51, 32
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0013
+  rotate: true
+  xy: 1132, 670
+  size: 60, 90
+  orig: 139, 151
+  offset: 56, 32
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0014
+  rotate: true
+  xy: 461, 5
+  size: 76, 110
+  orig: 139, 151
+  offset: 45, 23
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0015
+  rotate: true
+  xy: 461, 5
+  size: 76, 110
+  orig: 139, 151
+  offset: 45, 23
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0016
+  rotate: true
+  xy: 685, 2
+  size: 85, 114
+  orig: 139, 151
+  offset: 36, 19
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0017
+  rotate: true
+  xy: 573, 5
+  size: 76, 110
+  orig: 139, 151
+  offset: 45, 23
+  index: -1
+boxing/gongjixiaoguo/gojixiaoguo0018
+  rotate: true
+  xy: 912, 423
+  size: 73, 96
+  orig: 139, 151
+  offset: 36, 19
+  index: -1
+boxing/heidi
+  rotate: false
+  xy: 1040, 531
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+boxing/touyun/touyun0001
+  rotate: true
+  xy: 1022, 123
+  size: 189, 65
+  orig: 207, 109
+  offset: 4, 24
+  index: -1
+boxing/touyun/touyun0002
+  rotate: false
+  xy: 413, 354
+  size: 171, 74
+  orig: 207, 109
+  offset: 13, 15
+  index: -1
+boxing/touyun/touyun0003
+  rotate: false
+  xy: 1089, 242
+  size: 178, 70
+  orig: 207, 109
+  offset: 11, 26
+  index: -1
+boxing/touyun/touyun0004
+  rotate: false
+  xy: 1044, 957
+  size: 182, 73
+  orig: 207, 109
+  offset: 15, 26
+  index: -1
+boxing/touyun/touyun0005
+  rotate: false
+  xy: 233, 354
+  size: 178, 74
+  orig: 207, 109
+  offset: 11, 16
+  index: -1
+boxing/touyun/touyun0006
+  rotate: false
+  xy: 1044, 888
+  size: 142, 67
+  orig: 207, 109
+  offset: 11, 16
+  index: -1
+boxing/yanjing
+  rotate: false
+  xy: 231, 8
+  size: 38, 21
+  orig: 39, 23
+  offset: 0, 1
+  index: -1
+boxing/yanwu/yanwu0001
+  rotate: true
+  xy: 461, 83
+  size: 269, 186
+  orig: 337, 229
+  offset: 40, 1
+  index: -1
+boxing/yanwu/yanwu0008
+  rotate: true
+  xy: 461, 83
+  size: 269, 186
+  orig: 337, 229
+  offset: 40, 1
+  index: -1
+boxing/yanwu/yanwu0002
+  rotate: true
+  xy: 1089, 6
+  size: 234, 176
+  orig: 337, 229
+  offset: 61, 5
+  index: -1
+boxing/yanwu/yanwu0003
+  rotate: false
+  xy: 1022, 314
+  size: 238, 182
+  orig: 337, 229
+  offset: 60, 5
+  index: -1
+boxing/yanwu/yanwu0004
+  rotate: true
+  xy: 832, 119
+  size: 245, 188
+  orig: 337, 229
+  offset: 54, 3
+  index: -1
+boxing/yanwu/yanwu0005
+  rotate: true
+  xy: 850, 498
+  size: 254, 188
+  orig: 337, 229
+  offset: 47, 3
+  index: -1
+boxing/yanwu/yanwu0006
+  rotate: true
+  xy: 669, 492
+  size: 260, 179
+  orig: 337, 229
+  offset: 42, 2
+  index: -1
+boxing/yanwu/yanwu0007
+  rotate: true
+  xy: 649, 89
+  size: 264, 181
+  orig: 337, 229
+  offset: 40, 1
+  index: -1
+boxing/yanwu/yanwu0009
+  rotate: true
+  xy: 856, 794
+  size: 236, 186
+  orig: 337, 229
+  offset: 63, 2
+  index: -1
+boxing/yanwu/yanwu0010
+  rotate: true
+  xy: 657, 754
+  size: 276, 197
+  orig: 337, 229
+  offset: 31, 0
+  index: -1
+boxing/yanwu/yanwu0011
+  rotate: true
+  xy: 449, 751
+  size: 279, 206
+  orig: 337, 229
+  offset: 31, 0
+  index: -1
+boxing/yanwu/yanwu0012
+  rotate: true
+  xy: 233, 430
+  size: 299, 208
+  orig: 337, 229
+  offset: 14, 6
+  index: -1
+boxing/yanwu/yanwu0013
+  rotate: true
+  xy: 233, 731
+  size: 299, 214
+  orig: 337, 229
+  offset: 17, 3
+  index: -1
+boxing/yanwu/yanwu0014
+  rotate: true
+  xy: 443, 433
+  size: 296, 224
+  orig: 337, 229
+  offset: 20, 0
+  index: -1
+boxing/yanwu/yanwu0015
+  rotate: true
+  xy: 231, 31
+  size: 321, 228
+  orig: 337, 229
+  offset: 12, 0
+  index: -1
+boxing/yanwu/yanwu0016
+  rotate: true
+  xy: 2, 693
+  size: 337, 229
+  orig: 337, 229
+  offset: 0, 0
+  index: -1
+boxing/yanwu/yanwu0017
+  rotate: true
+  xy: 2, 354
+  size: 337, 229
+  orig: 337, 229
+  offset: 0, 0
+  index: -1
+boxing/yanwu/yanwu0018
+  rotate: true
+  xy: 2, 15
+  size: 337, 227
+  orig: 337, 229
+  offset: 0, 2
+  index: -1
+boxing/yanzhu1
+  rotate: false
+  xy: 2, 5
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+boxing/yanzhu2
+  rotate: false
+  xy: 10, 5
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1

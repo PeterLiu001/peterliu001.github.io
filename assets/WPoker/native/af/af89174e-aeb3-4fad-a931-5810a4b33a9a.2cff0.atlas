@@ -1,0 +1,27 @@
+
+storm_reward.png
+size: 488,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chip_yellow
+  rotate: false
+  xy: 306, 134
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+light_1
+  rotate: false
+  xy: 2, 12
+  size: 302, 302
+  orig: 344, 344
+  offset: 21, 21
+  index: -1
+light_2
+  rotate: false
+  xy: 306, 2
+  size: 130, 130
+  orig: 134, 134
+  offset: 2, 2
+  index: -1

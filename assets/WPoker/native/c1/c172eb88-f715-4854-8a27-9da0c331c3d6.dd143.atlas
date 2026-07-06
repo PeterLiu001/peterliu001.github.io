@@ -1,0 +1,34 @@
+
+Recharge.png
+size: 289,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_1
+  rotate: false
+  xy: 2, 2
+  size: 112, 112
+  orig: 114, 113
+  offset: 2, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 116, 10
+  size: 103, 104
+  orig: 113, 110
+  offset: 3, 3
+  index: -1
+recharge
+  rotate: true
+  xy: 221, 33
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 221, 11
+  size: 20, 20
+  orig: 21, 21
+  offset: 0, 1
+  index: -1

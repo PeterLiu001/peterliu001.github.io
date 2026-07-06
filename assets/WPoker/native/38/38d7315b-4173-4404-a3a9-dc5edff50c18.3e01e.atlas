@@ -1,0 +1,153 @@
+
+gun_dc.png
+size: 1921,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_qiang1
+  rotate: false
+  xy: 513, 171
+  size: 264, 147
+  orig: 264, 147
+  offset: 0, 0
+  index: -1
+2_qiang12
+  rotate: false
+  xy: 1159, 24
+  size: 264, 145
+  orig: 264, 145
+  offset: 0, 0
+  index: -1
+2_qiang18
+  rotate: false
+  xy: 1572, 174
+  size: 263, 144
+  orig: 263, 144
+  offset: 0, 0
+  index: -1
+2_qiang25
+  rotate: false
+  xy: 1308, 173
+  size: 262, 145
+  orig: 262, 145
+  offset: 0, 0
+  index: -1
+2_qiang3
+  rotate: false
+  xy: 627, 22
+  size: 264, 147
+  orig: 264, 147
+  offset: 0, 0
+  index: -1
+2_qiang38
+  rotate: false
+  xy: 1044, 171
+  size: 262, 147
+  orig: 262, 147
+  offset: 0, 0
+  index: -1
+2_qiang50
+  rotate: true
+  xy: 363, 55
+  size: 263, 148
+  orig: 263, 148
+  offset: 0, 0
+  index: -1
+2_qiang7
+  rotate: false
+  xy: 893, 23
+  size: 264, 146
+  orig: 264, 146
+  offset: 0, 0
+  index: -1
+3_guang
+  rotate: false
+  xy: 485, 2
+  size: 47, 51
+  orig: 57, 64
+  offset: 5, 7
+  index: -1
+3_qiang2
+  rotate: false
+  xy: 779, 171
+  size: 263, 147
+  orig: 263, 147
+  offset: 0, 0
+  index: -1
+3_qinag1
+  rotate: false
+  xy: 1425, 25
+  size: 260, 146
+  orig: 260, 146
+  offset: 0, 0
+  index: -1
+danke1
+  rotate: false
+  xy: 1837, 162
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+danke2
+  rotate: true
+  xy: 363, 5
+  size: 48, 120
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+danke3
+  rotate: false
+  xy: 1687, 69
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+danke4
+  rotate: false
+  xy: 1800, 66
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+danke5
+  rotate: false
+  xy: 1837, 224
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+dankong
+  rotate: true
+  xy: 513, 56
+  size: 113, 112
+  orig: 113, 112
+  offset: 0, 0
+  index: -1
+huoguang1
+  rotate: true
+  xy: 559, 18
+  size: 36, 25
+  orig: 39, 28
+  offset: 1, 2
+  index: -1
+huoguang2
+  rotate: true
+  xy: 586, 22
+  size: 32, 23
+  orig: 32, 25
+  offset: 0, 1
+  index: -1
+huoguang3
+  rotate: true
+  xy: 534, 12
+  size: 42, 23
+  orig: 44, 24
+  offset: 2, 0
+  index: -1
+suiboli
+  rotate: false
+  xy: 2, 3
+  size: 359, 315
+  orig: 359, 315
+  offset: 0, 0
+  index: -1

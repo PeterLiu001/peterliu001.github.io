@@ -1,0 +1,20 @@
+
+chip_storm_ico.png
+size: 165,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ico_storm
+  rotate: false
+  xy: 2, 2
+  size: 115, 88
+  orig: 115, 88
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 119, 45
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1

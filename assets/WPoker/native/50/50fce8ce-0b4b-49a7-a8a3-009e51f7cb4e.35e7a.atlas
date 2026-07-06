@@ -1,0 +1,258 @@
+
+bombshell_dc.png
+size: 1515,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bombshell/baozha/baozha]_00000
+  rotate: false
+  xy: 629, 2
+  size: 122, 123
+  orig: 256, 256
+  offset: 67, 67
+  index: -1
+bombshell/baozha/baozha]_00002
+  rotate: false
+  xy: 1020, 140
+  size: 182, 182
+  orig: 256, 256
+  offset: 37, 36
+  index: -1
+bombshell/baozha/baozha]_00004
+  rotate: false
+  xy: 629, 127
+  size: 193, 194
+  orig: 256, 256
+  offset: 31, 30
+  index: -1
+bombshell/baozha/baozha]_00006
+  rotate: false
+  xy: 430, 122
+  size: 197, 198
+  orig: 256, 256
+  offset: 29, 28
+  index: -1
+bombshell/baozha/baozha]_00008
+  rotate: false
+  xy: 1270, 327
+  size: 200, 202
+  orig: 256, 256
+  offset: 28, 26
+  index: -1
+bombshell/baozha/baozha]_00010
+  rotate: false
+  xy: 1064, 325
+  size: 204, 204
+  orig: 256, 256
+  offset: 26, 25
+  index: -1
+bombshell/baozha/baozha]_00012
+  rotate: false
+  xy: 438, 323
+  size: 206, 206
+  orig: 256, 256
+  offset: 25, 24
+  index: -1
+bombshell/baozha/baozha]_00014
+  rotate: false
+  xy: 228, 322
+  size: 208, 207
+  orig: 256, 256
+  offset: 24, 24
+  index: -1
+bombshell/baozha/baozha]_00016
+  rotate: true
+  xy: 856, 324
+  size: 205, 206
+  orig: 256, 256
+  offset: 25, 24
+  index: -1
+bombshell/baozha/baozha]_00018
+  rotate: false
+  xy: 228, 120
+  size: 200, 200
+  orig: 256, 256
+  offset: 28, 27
+  index: -1
+bombshell/baozha/baozha]_00020
+  rotate: false
+  xy: 824, 128
+  size: 194, 194
+  orig: 256, 256
+  offset: 31, 31
+  index: -1
+bombshell/baozha/baozha]_00022
+  rotate: true
+  xy: 646, 325
+  size: 204, 208
+  orig: 256, 256
+  offset: 26, 24
+  index: -1
+bombshell/baozha/baozha]_00024
+  rotate: false
+  xy: 2, 86
+  size: 215, 215
+  orig: 256, 256
+  offset: 20, 22
+  index: -1
+bombshell/baozha/baozha]_00026
+  rotate: false
+  xy: 2, 303
+  size: 224, 226
+  orig: 256, 256
+  offset: 16, 17
+  index: -1
+bombshell/baozha/baozha]_00028
+  rotate: true
+  xy: 1204, 170
+  size: 153, 147
+  orig: 256, 256
+  offset: 58, 56
+  index: -1
+bombshell/baozha/baozha]_00030
+  rotate: true
+  xy: 1353, 174
+  size: 151, 146
+  orig: 256, 256
+  offset: 59, 57
+  index: -1
+bombshell/baozha/baozha]_00032
+  rotate: true
+  xy: 1283, 19
+  size: 149, 138
+  orig: 256, 256
+  offset: 58, 61
+  index: -1
+bombshell/baozha/baozha]_00034
+  rotate: false
+  xy: 1020, 2
+  size: 132, 136
+  orig: 256, 256
+  offset: 65, 61
+  index: -1
+bombshell/baozha/baozha]_00036
+  rotate: false
+  xy: 1154, 6
+  size: 127, 132
+  orig: 256, 256
+  offset: 67, 60
+  index: -1
+bombshell/baozha/baozha]_00038
+  rotate: true
+  xy: 219, 2
+  size: 116, 130
+  orig: 256, 256
+  offset: 72, 62
+  index: -1
+bombshell/baozha/baozha]_00040
+  rotate: true
+  xy: 351, 4
+  size: 114, 133
+  orig: 256, 256
+  offset: 72, 60
+  index: -1
+bombshell/baozha/baozha]_00042
+  rotate: true
+  xy: 486, 18
+  size: 102, 133
+  orig: 256, 256
+  offset: 78, 61
+  index: -1
+bombshell/baozha/baozha]_00044
+  rotate: false
+  xy: 1423, 81
+  size: 90, 91
+  orig: 256, 256
+  offset: 83, 79
+  index: -1
+bombshell/baozha/baozha]_00046
+  rotate: false
+  xy: 2, 27
+  size: 63, 57
+  orig: 256, 256
+  offset: 101, 98
+  index: -1
+bombshell/baozhu
+  rotate: false
+  xy: 753, 15
+  size: 108, 110
+  orig: 109, 112
+  offset: 0, 1
+  index: -1
+bombshell/yan/yanwu10001
+  rotate: true
+  xy: 836, 2
+  size: 11, 67
+  orig: 18, 86
+  offset: 3, 3
+  index: -1
+bombshell/yan/yanwu10002
+  rotate: true
+  xy: 1283, 7
+  size: 10, 70
+  orig: 18, 86
+  offset: 4, 5
+  index: -1
+bombshell/yan/yanwu10003
+  rotate: true
+  xy: 486, 6
+  size: 10, 74
+  orig: 18, 86
+  offset: 5, 7
+  index: -1
+bombshell/yan/yanwu10004
+  rotate: false
+  xy: 1472, 447
+  size: 9, 82
+  orig: 18, 86
+  offset: 6, 4
+  index: -1
+bombshell/yan/yanwu10005
+  rotate: true
+  xy: 753, 2
+  size: 11, 81
+  orig: 18, 86
+  offset: 3, 3
+  index: -1
+bombshell/yan/yanwu10006
+  rotate: true
+  xy: 1204, 158
+  size: 10, 71
+  orig: 18, 86
+  offset: 3, 4
+  index: -1
+bombshell/yan/yanwu10007
+  rotate: false
+  xy: 966, 55
+  size: 9, 71
+  orig: 18, 86
+  offset: 4, 6
+  index: -1
+bombshell/yan/yanwu10008
+  rotate: true
+  xy: 1423, 71
+  size: 8, 69
+  orig: 18, 86
+  offset: 4, 5
+  index: -1
+bombshell/yan1
+  rotate: false
+  xy: 67, 53
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+bombshell/yan2
+  rotate: false
+  xy: 905, 2
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+bombshell/zhakeng
+  rotate: false
+  xy: 863, 31
+  size: 101, 95
+  orig: 101, 95
+  offset: 0, 0
+  index: -1

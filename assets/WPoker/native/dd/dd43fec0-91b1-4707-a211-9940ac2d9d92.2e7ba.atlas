@@ -1,0 +1,97 @@
+
+cowboy_lady.png
+size: 1103,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_0
+  rotate: true
+  xy: 2, 2
+  size: 473, 512
+  orig: 473, 512
+  offset: 0, 0
+  index: -1
+guang_1
+  rotate: true
+  xy: 516, 4
+  size: 14, 277
+  orig: 18, 312
+  offset: 2, 22
+  index: -1
+guang_2
+  rotate: false
+  xy: 856, 7
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+lady_arm
+  rotate: false
+  xy: 516, 20
+  size: 178, 73
+  orig: 178, 73
+  offset: 0, 0
+  index: -1
+lady_body
+  rotate: true
+  xy: 516, 95
+  size: 380, 328
+  orig: 380, 331
+  offset: 0, 2
+  index: -1
+lady_eye_left
+  rotate: true
+  xy: 897, 6
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+lady_eye_right
+  rotate: true
+  xy: 906, 77
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+lady_hair
+  rotate: false
+  xy: 846, 105
+  size: 87, 102
+  orig: 89, 102
+  offset: 0, 0
+  index: -1
+lady_hair2
+  rotate: true
+  xy: 696, 24
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+lady_hair3
+  rotate: false
+  xy: 856, 48
+  size: 48, 55
+  orig: 51, 55
+  offset: 3, 0
+  index: -1
+lady_hand
+  rotate: false
+  xy: 935, 5
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+lady_head
+  rotate: true
+  xy: 846, 209
+  size: 266, 255
+  orig: 268, 255
+  offset: 2, 0
+  index: -1
+love
+  rotate: true
+  xy: 786, 20
+  size: 73, 68
+  orig: 75, 70
+  offset: 1, 1
+  index: -1

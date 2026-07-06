@@ -1,0 +1,139 @@
+
+good_dc.png
+size: 1963,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8_kongxin
+  rotate: true
+  xy: 1769, 7
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+8_qipao1
+  rotate: true
+  xy: 1799, 337
+  size: 109, 88
+  orig: 109, 88
+  offset: 0, 0
+  index: -1
+8_taoxin
+  rotate: true
+  xy: 1717, 5
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+8_taoxinYY
+  rotate: true
+  xy: 1664, 4
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+guangxiao/guangxiao_00000
+  rotate: false
+  xy: 1889, 375
+  size: 72, 71
+  orig: 370, 370
+  offset: 149, 151
+  index: -1
+guangxiao/guangxiao_00001
+  rotate: false
+  xy: 1227, 298
+  size: 292, 292
+  orig: 370, 370
+  offset: 39, 41
+  index: -1
+guangxiao/guangxiao_00002
+  rotate: false
+  xy: 622, 284
+  size: 305, 306
+  orig: 370, 370
+  offset: 31, 33
+  index: -1
+guangxiao/guangxiao_00003
+  rotate: true
+  xy: 2, 277
+  size: 313, 309
+  orig: 370, 370
+  offset: 29, 32
+  index: -1
+guangxiao/guangxiao_00004
+  rotate: false
+  xy: 313, 282
+  size: 307, 308
+  orig: 370, 370
+  offset: 31, 32
+  index: -1
+guangxiao/guangxiao_00005
+  rotate: true
+  xy: 929, 292
+  size: 298, 296
+  orig: 370, 370
+  offset: 36, 36
+  index: -1
+guangxiao/guangxiao_00006
+  rotate: true
+  xy: 1387, 14
+  size: 282, 275
+  orig: 370, 370
+  offset: 50, 45
+  index: -1
+guangxiao/guangxiao_00007
+  rotate: false
+  xy: 819, 3
+  size: 284, 279
+  orig: 370, 370
+  offset: 46, 45
+  index: -1
+guangxiao/guangxiao_00008
+  rotate: false
+  xy: 1105, 10
+  size: 280, 280
+  orig: 370, 370
+  offset: 45, 45
+  index: -1
+guangxiao/guangxiao_00009
+  rotate: false
+  xy: 537, 2
+  size: 280, 278
+  orig: 370, 370
+  offset: 45, 46
+  index: -1
+guangxiao/guangxiao_00010
+  rotate: false
+  xy: 1521, 314
+  size: 276, 276
+  orig: 370, 370
+  offset: 47, 47
+  index: -1
+guangxiao/guangxiao_00011
+  rotate: false
+  xy: 2, 5
+  size: 270, 270
+  orig: 370, 370
+  offset: 50, 50
+  index: -1
+guangxiao/guangxiao_00012
+  rotate: true
+  xy: 274, 13
+  size: 262, 261
+  orig: 370, 370
+  offset: 54, 55
+  index: -1
+guangxiao/guangxiao_00013
+  rotate: true
+  xy: 1664, 66
+  size: 246, 247
+  orig: 370, 370
+  offset: 63, 63
+  index: -1
+taoxin0001
+  rotate: false
+  xy: 1799, 448
+  size: 162, 142
+  orig: 238, 240
+  offset: 36, 49
+  index: -1

@@ -1,0 +1,41 @@
+
+egg_dc.png
+size: 207,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_dan
+  rotate: false
+  xy: 135, 66
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+6_danbai
+  rotate: true
+  xy: 2, 56
+  size: 98, 131
+  orig: 151, 171
+  offset: 18, 9
+  index: -1
+6_danhuang
+  rotate: false
+  xy: 70, 6
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+6_suidane2
+  rotate: false
+  xy: 135, 10
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+6_suidanke1
+  rotate: false
+  xy: 2, 2
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
